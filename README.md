@@ -1,7 +1,7 @@
-## 📊 Task 7: Basic Sales Summary using SQLite and Python
+## 📊 Basic Sales Summary using SQLite and Python
 
 ### 📝 Objective
-The goal of this task was to extract basic sales information (such as total quantity sold and total revenue) from a simple SQLite database and display it using Python with both print statements and a basic bar chart.
+The goal of this project was to extract basic sales information (such as total quantity sold and total revenue) from a simple SQLite database and display it using Python with both print statements and a basic bar chart.
 
 ---
 
